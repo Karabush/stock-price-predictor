@@ -1,2 +1,1 @@
-# stock-price-predictor
-Predict the maximum price a stock will hit during a quarter period based on its financial report
+The goal of this model is to predict the maximum price a stock will hit during a quarter period based on it's latest financial report. If the model will succeed - we could use it as a stock screener to find the most promising stocks prices growth and place a take profit order depending on the maximum price predicted by the model.
